@@ -1,0 +1,6 @@
+{
+  "name": "Aura - Encrypted Super Social Network",
+  "description": "Next-generation privacy-first social super-app uniting feed, encrypted messenger, ephemeral snaps, micro-debates, and professional network with client-side zero-knowledge encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
